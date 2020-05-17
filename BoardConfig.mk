@@ -75,7 +75,7 @@ TW_MAX_BRIGHTNESS := 255
 
 # TWRP crypto
 TW_INCLUDE_CRYPTO := true
-TW_CRYPTO_USE_SYSTEM_VOLD := qseecomd hwservicemanager servicemanager keymaster-3-0
+#TW_CRYPTO_USE_SYSTEM_VOLD := qseecomd hwservicemanager servicemanager keymaster-3-0
 TW_CRYPTO_SYSTEM_VOLD_MOUNT := firmware persist
 
 # TWRP debug flags
